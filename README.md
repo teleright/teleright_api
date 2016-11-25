@@ -1,4 +1,4 @@
-[TOC]
+![api](http://api.teleright.ru/img/toptal-blog-image-1426676428399.jpeg)
 
 ------
 
